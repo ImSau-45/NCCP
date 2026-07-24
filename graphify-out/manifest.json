@@ -1,0 +1,247 @@
+{
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/frontend/tailwind.config.js": {
+    "mtime": 1779296214.1377425,
+    "ast_hash": "a05563c454cea28102f5512712f52cac",
+    "semantic_hash": "a05563c454cea28102f5512712f52cac"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/frontend/vite.config.js": {
+    "mtime": 1779296198.2823892,
+    "ast_hash": "bbf1b882c7a2e8cf7c36d91678365997",
+    "semantic_hash": "bbf1b882c7a2e8cf7c36d91678365997"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/frontend/package.json": {
+    "mtime": 1779296191.3863604,
+    "ast_hash": "41cf73f6b989702654e4a30afecd2fff",
+    "semantic_hash": "41cf73f6b989702654e4a30afecd2fff"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/frontend/postcss.config.js": {
+    "mtime": 1779296206.2319746,
+    "ast_hash": "ef3ba2a81ba19f8ea5ddf625521e96f0",
+    "semantic_hash": "ef3ba2a81ba19f8ea5ddf625521e96f0"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/frontend/src/main.jsx": {
+    "mtime": 1779296220.459468,
+    "ast_hash": "42e98a0645eb3fe9f888313e34ea9205",
+    "semantic_hash": "42e98a0645eb3fe9f888313e34ea9205"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/frontend/src/App.jsx": {
+    "mtime": 1779296229.869075,
+    "ast_hash": "5dcbd79699bbd3814b205c373b8497b5",
+    "semantic_hash": "5dcbd79699bbd3814b205c373b8497b5"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/frontend/src/api.js": {
+    "mtime": 1779296245.7417042,
+    "ast_hash": "f77e5339b608f39a158e3af10d67a34c",
+    "semantic_hash": "f77e5339b608f39a158e3af10d67a34c"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/frontend/src/components/Header.jsx": {
+    "mtime": 1779296514.554795,
+    "ast_hash": "a848f5167d730e227f24559953024589",
+    "semantic_hash": "a848f5167d730e227f24559953024589"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/frontend/src/components/PipelineCard.jsx": {
+    "mtime": 1779296526.2335944,
+    "ast_hash": "c8af6c5ddab5b5623a0c19a39e25f013",
+    "semantic_hash": "c8af6c5ddab5b5623a0c19a39e25f013"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/frontend/src/components/ChartCard.jsx": {
+    "mtime": 1779296529.8325224,
+    "ast_hash": "cbc90304829fd1eb09ac348f335eac24",
+    "semantic_hash": "cbc90304829fd1eb09ac348f335eac24"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/frontend/src/components/Sidebar.jsx": {
+    "mtime": 1779296509.9083478,
+    "ast_hash": "286bfdfe9bf2df8c1fb02e6d9081dafe",
+    "semantic_hash": "286bfdfe9bf2df8c1fb02e6d9081dafe"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/frontend/src/components/RepoCard.jsx": {
+    "mtime": 1779296520.0581896,
+    "ast_hash": "64170d7aa47da704ed80bbb7bd83e60c",
+    "semantic_hash": "64170d7aa47da704ed80bbb7bd83e60c"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/frontend/src/hooks/useAuth.js": {
+    "mtime": 1779296251.3414714,
+    "ast_hash": "2e368ea79619e5f189d23f1853fb5d72",
+    "semantic_hash": "2e368ea79619e5f189d23f1853fb5d72"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/frontend/src/pages/Profile.jsx": {
+    "mtime": 1779296343.9626286,
+    "ast_hash": "81b82e6049f24719aecd8377ba62716d",
+    "semantic_hash": "81b82e6049f24719aecd8377ba62716d"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/frontend/src/pages/Analytics.jsx": {
+    "mtime": 1779296318.7498715,
+    "ast_hash": "9645c0d1ac2150feac9effda2daa141b",
+    "semantic_hash": "9645c0d1ac2150feac9effda2daa141b"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/frontend/src/pages/WorkflowBuilder.jsx": {
+    "mtime": 1779296301.6543548,
+    "ast_hash": "1c1a70a85b3254cf6a6c686a90ee8bc3",
+    "semantic_hash": "1c1a70a85b3254cf6a6c686a90ee8bc3"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/frontend/src/pages/LogsViewer.jsx": {
+    "mtime": 1779296312.1749818,
+    "ast_hash": "9d099ac6d4344a494ad2b5726b36c1a1",
+    "semantic_hash": "9d099ac6d4344a494ad2b5726b36c1a1"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/frontend/src/pages/DeploymentMonitor.jsx": {
+    "mtime": 1779296307.1150365,
+    "ast_hash": "62253b2f3c8c34fc56f751bdd34bbb6d",
+    "semantic_hash": "62253b2f3c8c34fc56f751bdd34bbb6d"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/frontend/src/pages/Dashboard.jsx": {
+    "mtime": 1779296282.5700533,
+    "ast_hash": "0ba9cece740af0962b42c26ab0f84422",
+    "semantic_hash": "0ba9cece740af0962b42c26ab0f84422"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/frontend/src/pages/ErrorInsights.jsx": {
+    "mtime": 1779296330.8939753,
+    "ast_hash": "98c1da0efe281b8b65ab46e9500893ba",
+    "semantic_hash": "98c1da0efe281b8b65ab46e9500893ba"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/frontend/src/pages/ReposPage.jsx": {
+    "mtime": 1779296290.8646247,
+    "ast_hash": "d47386bbf9140d858f4f1523ff59ee0e",
+    "semantic_hash": "d47386bbf9140d858f4f1523ff59ee0e"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/frontend/src/pages/LoginPage.jsx": {
+    "mtime": 1779296267.8169112,
+    "ast_hash": "a46a8e105f958deba99c5db4c0f922d7",
+    "semantic_hash": "a46a8e105f958deba99c5db4c0f922d7"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/frontend/src/pages/RegisterPage.jsx": {
+    "mtime": 1779296276.6803253,
+    "ast_hash": "c099de31175cdba4b0c039f40c643627",
+    "semantic_hash": "c099de31175cdba4b0c039f40c643627"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/frontend/src/pages/Settings.jsx": {
+    "mtime": 1779296500.6078224,
+    "ast_hash": "81b7694c519bf0adc3b7ae43293e8f9a",
+    "semantic_hash": "81b7694c519bf0adc3b7ae43293e8f9a"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/frontend/src/pages/LandingPage.jsx": {
+    "mtime": 1779296259.5539618,
+    "ast_hash": "d2f1149aad2205326c67aa737dc4d38b",
+    "semantic_hash": "d2f1149aad2205326c67aa737dc4d38b"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/backend/db.py": {
+    "mtime": 1779295975.7503593,
+    "ast_hash": "8c3e065612682cf825969b6e41d0ef14",
+    "semantic_hash": "8c3e065612682cf825969b6e41d0ef14"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/backend/tasks.py": {
+    "mtime": 1779296075.5856466,
+    "ast_hash": "98688d1d1ff0023847d0a0731c9a932b",
+    "semantic_hash": "98688d1d1ff0023847d0a0731c9a932b"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/backend/config.py": {
+    "mtime": 1779295975.6650908,
+    "ast_hash": "b251ab73c7055297500905ce5b89b794",
+    "semantic_hash": "b251ab73c7055297500905ce5b89b794"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/backend/models.py": {
+    "mtime": 1779295975.8210013,
+    "ast_hash": "303cd7652e297574a6f1c8bdd8f1b6ed",
+    "semantic_hash": "303cd7652e297574a6f1c8bdd8f1b6ed"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/backend/__init__.py": {
+    "mtime": 1779296543.2172978,
+    "ast_hash": "e875d3093d41036fb2643b5657bb9fd2",
+    "semantic_hash": "e875d3093d41036fb2643b5657bb9fd2"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/backend/app.py": {
+    "mtime": 1779295975.546307,
+    "ast_hash": "888e1de726a2d62cb12a2d9120dcc130",
+    "semantic_hash": "888e1de726a2d62cb12a2d9120dcc130"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/backend/routes/auth.py": {
+    "mtime": 1779295993.103721,
+    "ast_hash": "af2e3919b82e36571c9e8ecf8c60ac8e",
+    "semantic_hash": "af2e3919b82e36571c9e8ecf8c60ac8e"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/backend/routes/deploy.py": {
+    "mtime": 1779296014.9414115,
+    "ast_hash": "7a8df642031b6f64b2bd2a46d9f0e3ec",
+    "semantic_hash": "7a8df642031b6f64b2bd2a46d9f0e3ec"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/backend/routes/__init__.py": {
+    "mtime": 1779296549.350424,
+    "ast_hash": "ccf7d45d1660f0c99657bdc005249f9c",
+    "semantic_hash": "ccf7d45d1660f0c99657bdc005249f9c"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/backend/routes/pipeline.py": {
+    "mtime": 1779296009.5370169,
+    "ast_hash": "bb1c4a099f0d1cfa98e7352a37b45d64",
+    "semantic_hash": "bb1c4a099f0d1cfa98e7352a37b45d64"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/backend/routes/analytics.py": {
+    "mtime": 1779296019.3161798,
+    "ast_hash": "aade8f6e4250c6b5a1b1598e4760f724",
+    "semantic_hash": "aade8f6e4250c6b5a1b1598e4760f724"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/backend/routes/github.py": {
+    "mtime": 1779296002.0961208,
+    "ast_hash": "476a8da536e668ed20d2bf27087097da",
+    "semantic_hash": "476a8da536e668ed20d2bf27087097da"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/backend/services/ai_service.py": {
+    "mtime": 1779296035.6819963,
+    "ast_hash": "9d3a21b815834eae4271a7f4cb4a7832",
+    "semantic_hash": "9d3a21b815834eae4271a7f4cb4a7832"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/backend/services/github_service.py": {
+    "mtime": 1779296029.2488155,
+    "ast_hash": "aa15e718caaaf0e897b72aefc5a7452b",
+    "semantic_hash": "aa15e718caaaf0e897b72aefc5a7452b"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/backend/services/__init__.py": {
+    "mtime": 1779296546.4085531,
+    "ast_hash": "5e2270390fee7184e0f15b250cac645f",
+    "semantic_hash": "5e2270390fee7184e0f15b250cac645f"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/backend/services/deployment_service.py": {
+    "mtime": 1779296060.8268452,
+    "ast_hash": "b044b0cd6bc3912b9573fa049b743c71",
+    "semantic_hash": "b044b0cd6bc3912b9573fa049b743c71"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/backend/services/cache_service.py": {
+    "mtime": 1779296082.7344146,
+    "ast_hash": "e635bde87be220ea3b0b006a5d2d9b3e",
+    "semantic_hash": "e635bde87be220ea3b0b006a5d2d9b3e"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/backend/services/tf_predictor.py": {
+    "mtime": 1779296069.5045056,
+    "ast_hash": "cdd00604c40804240e1b13caae2d59ee",
+    "semantic_hash": "cdd00604c40804240e1b13caae2d59ee"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/scripts/deploy_ec2.sh": {
+    "mtime": 1779296185.8733737,
+    "ast_hash": "cea72c825d346e7389eda28a99cdf20e",
+    "semantic_hash": "cea72c825d346e7389eda28a99cdf20e"
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/README.md": {
+    "mtime": 1779296123.7552104,
+    "ast_hash": "bc1e6dbad2f9ab9970148efb230c8caf",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/docker-compose.yml": {
+    "mtime": 1779297596.8417454,
+    "ast_hash": "552d162096b4882c522eab44b04a6a66",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/frontend/public/index.html": {
+    "mtime": 1779296534.8393896,
+    "ast_hash": "5f9b498427b37ff4646e473d9b3198e2",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/backend/requirements.txt": {
+    "mtime": 1779300304.0301392,
+    "ast_hash": "dcb5960018ab26f7386b7bac568515a2",
+    "semantic_hash": ""
+  },
+  "/Users/nirajkumarthakur/Desktop/Natural_cicd/.github/workflows/ci-cd.yml": {
+    "mtime": 1779296132.3224835,
+    "ast_hash": "d4d922d75f3fb2e76b1a179c2faf1fcd",
+    "semantic_hash": ""
+  }
+}

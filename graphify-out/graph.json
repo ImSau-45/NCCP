@@ -1,0 +1,3187 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "tailwind.config.js",
+      "file_type": "code",
+      "source_file": "frontend/tailwind.config.js",
+      "source_location": "L1",
+      "id": "frontend_tailwind_config_js",
+      "community": 12,
+      "norm_label": "tailwind.config.js"
+    },
+    {
+      "label": "vite.config.js",
+      "file_type": "code",
+      "source_file": "frontend/vite.config.js",
+      "source_location": "L1",
+      "id": "frontend_vite_config_js",
+      "community": 13,
+      "norm_label": "vite.config.js"
+    },
+    {
+      "label": "package.json",
+      "file_type": "code",
+      "source_file": "frontend/package.json",
+      "source_location": "L1",
+      "id": "frontend_package_json",
+      "community": 1,
+      "norm_label": "package.json"
+    },
+    {
+      "label": "name",
+      "file_type": "code",
+      "source_file": "frontend/package.json",
+      "source_location": "L2",
+      "id": "frontend_package_name",
+      "community": 1,
+      "norm_label": "name"
+    },
+    {
+      "label": "version",
+      "file_type": "code",
+      "source_file": "frontend/package.json",
+      "source_location": "L3",
+      "id": "frontend_package_version",
+      "community": 1,
+      "norm_label": "version"
+    },
+    {
+      "label": "private",
+      "file_type": "code",
+      "source_file": "frontend/package.json",
+      "source_location": "L4",
+      "id": "frontend_package_private",
+      "community": 1,
+      "norm_label": "private"
+    },
+    {
+      "label": "type",
+      "file_type": "code",
+      "source_file": "frontend/package.json",
+      "source_location": "L5",
+      "id": "frontend_package_type",
+      "community": 1,
+      "norm_label": "type"
+    },
+    {
+      "label": "scripts",
+      "file_type": "code",
+      "source_file": "frontend/package.json",
+      "source_location": "L6",
+      "id": "frontend_package_scripts",
+      "community": 1,
+      "norm_label": "scripts"
+    },
+    {
+      "label": "dev",
+      "file_type": "code",
+      "source_file": "frontend/package.json",
+      "source_location": "L7",
+      "id": "frontend_package_scripts_dev",
+      "community": 1,
+      "norm_label": "dev"
+    },
+    {
+      "label": "build",
+      "file_type": "code",
+      "source_file": "frontend/package.json",
+      "source_location": "L8",
+      "id": "frontend_package_scripts_build",
+      "community": 1,
+      "norm_label": "build"
+    },
+    {
+      "label": "preview",
+      "file_type": "code",
+      "source_file": "frontend/package.json",
+      "source_location": "L9",
+      "id": "frontend_package_scripts_preview",
+      "community": 1,
+      "norm_label": "preview"
+    },
+    {
+      "label": "dependencies",
+      "file_type": "code",
+      "source_file": "frontend/package.json",
+      "source_location": "L11",
+      "id": "frontend_package_dependencies",
+      "community": 1,
+      "norm_label": "dependencies"
+    },
+    {
+      "label": "axios",
+      "file_type": "code",
+      "source_file": "frontend/package.json",
+      "source_location": "L12",
+      "id": "frontend_package_dependencies_axios",
+      "community": 1,
+      "norm_label": "axios"
+    },
+    {
+      "label": "react",
+      "file_type": "code",
+      "source_file": "frontend/package.json",
+      "source_location": "L13",
+      "id": "frontend_package_dependencies_react",
+      "community": 1,
+      "norm_label": "react"
+    },
+    {
+      "label": "react-dom",
+      "file_type": "code",
+      "source_file": "frontend/package.json",
+      "source_location": "L14",
+      "id": "frontend_package_dependencies_react_dom",
+      "community": 1,
+      "norm_label": "react-dom"
+    },
+    {
+      "label": "react-router-dom",
+      "file_type": "code",
+      "source_file": "frontend/package.json",
+      "source_location": "L15",
+      "id": "frontend_package_dependencies_react_router_dom",
+      "community": 1,
+      "norm_label": "react-router-dom"
+    },
+    {
+      "label": "recharts",
+      "file_type": "code",
+      "source_file": "frontend/package.json",
+      "source_location": "L16",
+      "id": "frontend_package_dependencies_recharts",
+      "community": 1,
+      "norm_label": "recharts"
+    },
+    {
+      "label": "devDependencies",
+      "file_type": "code",
+      "source_file": "frontend/package.json",
+      "source_location": "L18",
+      "id": "frontend_package_devdependencies",
+      "community": 1,
+      "norm_label": "devdependencies"
+    },
+    {
+      "label": "@vitejs/plugin-react",
+      "file_type": "code",
+      "source_file": "frontend/package.json",
+      "source_location": "L19",
+      "id": "frontend_package_devdependencies_vitejs_plugin_react",
+      "community": 1,
+      "norm_label": "@vitejs/plugin-react"
+    },
+    {
+      "label": "autoprefixer",
+      "file_type": "code",
+      "source_file": "frontend/package.json",
+      "source_location": "L20",
+      "id": "frontend_package_devdependencies_autoprefixer",
+      "community": 1,
+      "norm_label": "autoprefixer"
+    },
+    {
+      "label": "postcss",
+      "file_type": "code",
+      "source_file": "frontend/package.json",
+      "source_location": "L21",
+      "id": "frontend_package_devdependencies_postcss",
+      "community": 1,
+      "norm_label": "postcss"
+    },
+    {
+      "label": "tailwindcss",
+      "file_type": "code",
+      "source_file": "frontend/package.json",
+      "source_location": "L22",
+      "id": "frontend_package_devdependencies_tailwindcss",
+      "community": 1,
+      "norm_label": "tailwindcss"
+    },
+    {
+      "label": "vite",
+      "file_type": "code",
+      "source_file": "frontend/package.json",
+      "source_location": "L23",
+      "id": "frontend_package_devdependencies_vite",
+      "community": 1,
+      "norm_label": "vite"
+    },
+    {
+      "label": "postcss.config.js",
+      "file_type": "code",
+      "source_file": "frontend/postcss.config.js",
+      "source_location": "L1",
+      "id": "frontend_postcss_config_js",
+      "community": 14,
+      "norm_label": "postcss.config.js"
+    },
+    {
+      "label": "main.jsx",
+      "file_type": "code",
+      "source_file": "frontend/src/main.jsx",
+      "source_location": "L1",
+      "id": "frontend_src_main_jsx",
+      "community": 0,
+      "norm_label": "main.jsx"
+    },
+    {
+      "label": "App.jsx",
+      "file_type": "code",
+      "source_file": "frontend/src/App.jsx",
+      "source_location": "L1",
+      "id": "frontend_src_app_jsx",
+      "community": 0,
+      "norm_label": "app.jsx"
+    },
+    {
+      "label": "App()",
+      "file_type": "code",
+      "source_file": "frontend/src/App.jsx",
+      "source_location": "L17",
+      "id": "src_app_app",
+      "community": 0,
+      "norm_label": "app()"
+    },
+    {
+      "label": "api.js",
+      "file_type": "code",
+      "source_file": "frontend/src/api.js",
+      "source_location": "L1",
+      "id": "frontend_src_api_js",
+      "community": 5,
+      "norm_label": "api.js"
+    },
+    {
+      "label": "api",
+      "file_type": "code",
+      "source_file": "frontend/src/api.js",
+      "source_location": "L3",
+      "id": "src_api_api",
+      "community": 5,
+      "norm_label": "api"
+    },
+    {
+      "label": "setAuthToken()",
+      "file_type": "code",
+      "source_file": "frontend/src/api.js",
+      "source_location": "L10",
+      "id": "src_api_setauthtoken",
+      "community": 5,
+      "norm_label": "setauthtoken()"
+    },
+    {
+      "label": "Header.jsx",
+      "file_type": "code",
+      "source_file": "frontend/src/components/Header.jsx",
+      "source_location": "L1",
+      "id": "frontend_src_components_header_jsx",
+      "community": 0,
+      "norm_label": "header.jsx"
+    },
+    {
+      "label": "Header()",
+      "file_type": "code",
+      "source_file": "frontend/src/components/Header.jsx",
+      "source_location": "L3",
+      "id": "components_header_header",
+      "community": 0,
+      "norm_label": "header()"
+    },
+    {
+      "label": "PipelineCard.jsx",
+      "file_type": "code",
+      "source_file": "frontend/src/components/PipelineCard.jsx",
+      "source_location": "L1",
+      "id": "frontend_src_components_pipelinecard_jsx",
+      "community": 10,
+      "norm_label": "pipelinecard.jsx"
+    },
+    {
+      "label": "PipelineCard()",
+      "file_type": "code",
+      "source_file": "frontend/src/components/PipelineCard.jsx",
+      "source_location": "L1",
+      "id": "components_pipelinecard_pipelinecard",
+      "community": 10,
+      "norm_label": "pipelinecard()"
+    },
+    {
+      "label": "ChartCard.jsx",
+      "file_type": "code",
+      "source_file": "frontend/src/components/ChartCard.jsx",
+      "source_location": "L1",
+      "id": "frontend_src_components_chartcard_jsx",
+      "community": 10,
+      "norm_label": "chartcard.jsx"
+    },
+    {
+      "label": "ChartCard()",
+      "file_type": "code",
+      "source_file": "frontend/src/components/ChartCard.jsx",
+      "source_location": "L1",
+      "id": "components_chartcard_chartcard",
+      "community": 10,
+      "norm_label": "chartcard()"
+    },
+    {
+      "label": "Sidebar.jsx",
+      "file_type": "code",
+      "source_file": "frontend/src/components/Sidebar.jsx",
+      "source_location": "L1",
+      "id": "frontend_src_components_sidebar_jsx",
+      "community": 0,
+      "norm_label": "sidebar.jsx"
+    },
+    {
+      "label": "links",
+      "file_type": "code",
+      "source_file": "frontend/src/components/Sidebar.jsx",
+      "source_location": "L3",
+      "id": "components_sidebar_links",
+      "community": 0,
+      "norm_label": "links"
+    },
+    {
+      "label": "Sidebar()",
+      "file_type": "code",
+      "source_file": "frontend/src/components/Sidebar.jsx",
+      "source_location": "L15",
+      "id": "components_sidebar_sidebar",
+      "community": 0,
+      "norm_label": "sidebar()"
+    },
+    {
+      "label": "RepoCard.jsx",
+      "file_type": "code",
+      "source_file": "frontend/src/components/RepoCard.jsx",
+      "source_location": "L1",
+      "id": "frontend_src_components_repocard_jsx",
+      "community": 10,
+      "norm_label": "repocard.jsx"
+    },
+    {
+      "label": "RepoCard()",
+      "file_type": "code",
+      "source_file": "frontend/src/components/RepoCard.jsx",
+      "source_location": "L1",
+      "id": "components_repocard_repocard",
+      "community": 10,
+      "norm_label": "repocard()"
+    },
+    {
+      "label": "useAuth.js",
+      "file_type": "code",
+      "source_file": "frontend/src/hooks/useAuth.js",
+      "source_location": "L1",
+      "id": "frontend_src_hooks_useauth_js",
+      "community": 5,
+      "norm_label": "useauth.js"
+    },
+    {
+      "label": "useAuth()",
+      "file_type": "code",
+      "source_file": "frontend/src/hooks/useAuth.js",
+      "source_location": "L6",
+      "id": "hooks_useauth_useauth",
+      "community": 5,
+      "norm_label": "useauth()"
+    },
+    {
+      "label": "Profile.jsx",
+      "file_type": "code",
+      "source_file": "frontend/src/pages/Profile.jsx",
+      "source_location": "L1",
+      "id": "frontend_src_pages_profile_jsx",
+      "community": 0,
+      "norm_label": "profile.jsx"
+    },
+    {
+      "label": "Profile()",
+      "file_type": "code",
+      "source_file": "frontend/src/pages/Profile.jsx",
+      "source_location": "L1",
+      "id": "pages_profile_profile",
+      "community": 0,
+      "norm_label": "profile()"
+    },
+    {
+      "label": "Analytics.jsx",
+      "file_type": "code",
+      "source_file": "frontend/src/pages/Analytics.jsx",
+      "source_location": "L1",
+      "id": "frontend_src_pages_analytics_jsx",
+      "community": 4,
+      "norm_label": "analytics.jsx"
+    },
+    {
+      "label": "data",
+      "file_type": "code",
+      "source_file": "frontend/src/pages/Analytics.jsx",
+      "source_location": "L3",
+      "id": "pages_analytics_data",
+      "community": 4,
+      "norm_label": "data"
+    },
+    {
+      "label": "Analytics()",
+      "file_type": "code",
+      "source_file": "frontend/src/pages/Analytics.jsx",
+      "source_location": "L11",
+      "id": "pages_analytics_analytics",
+      "community": 4,
+      "norm_label": "analytics()"
+    },
+    {
+      "label": "WorkflowBuilder.jsx",
+      "file_type": "code",
+      "source_file": "frontend/src/pages/WorkflowBuilder.jsx",
+      "source_location": "L1",
+      "id": "frontend_src_pages_workflowbuilder_jsx",
+      "community": 0,
+      "norm_label": "workflowbuilder.jsx"
+    },
+    {
+      "label": "WorkflowBuilder()",
+      "file_type": "code",
+      "source_file": "frontend/src/pages/WorkflowBuilder.jsx",
+      "source_location": "L1",
+      "id": "pages_workflowbuilder_workflowbuilder",
+      "community": 0,
+      "norm_label": "workflowbuilder()"
+    },
+    {
+      "label": "LogsViewer.jsx",
+      "file_type": "code",
+      "source_file": "frontend/src/pages/LogsViewer.jsx",
+      "source_location": "L1",
+      "id": "frontend_src_pages_logsviewer_jsx",
+      "community": 0,
+      "norm_label": "logsviewer.jsx"
+    },
+    {
+      "label": "LogsViewer()",
+      "file_type": "code",
+      "source_file": "frontend/src/pages/LogsViewer.jsx",
+      "source_location": "L1",
+      "id": "pages_logsviewer_logsviewer",
+      "community": 0,
+      "norm_label": "logsviewer()"
+    },
+    {
+      "label": "DeploymentMonitor.jsx",
+      "file_type": "code",
+      "source_file": "frontend/src/pages/DeploymentMonitor.jsx",
+      "source_location": "L1",
+      "id": "frontend_src_pages_deploymentmonitor_jsx",
+      "community": 0,
+      "norm_label": "deploymentmonitor.jsx"
+    },
+    {
+      "label": "DeploymentMonitor()",
+      "file_type": "code",
+      "source_file": "frontend/src/pages/DeploymentMonitor.jsx",
+      "source_location": "L1",
+      "id": "pages_deploymentmonitor_deploymentmonitor",
+      "community": 0,
+      "norm_label": "deploymentmonitor()"
+    },
+    {
+      "label": "Dashboard.jsx",
+      "file_type": "code",
+      "source_file": "frontend/src/pages/Dashboard.jsx",
+      "source_location": "L1",
+      "id": "frontend_src_pages_dashboard_jsx",
+      "community": 10,
+      "norm_label": "dashboard.jsx"
+    },
+    {
+      "label": "Dashboard()",
+      "file_type": "code",
+      "source_file": "frontend/src/pages/Dashboard.jsx",
+      "source_location": "L5",
+      "id": "pages_dashboard_dashboard",
+      "community": 10,
+      "norm_label": "dashboard()"
+    },
+    {
+      "label": "ErrorInsights.jsx",
+      "file_type": "code",
+      "source_file": "frontend/src/pages/ErrorInsights.jsx",
+      "source_location": "L1",
+      "id": "frontend_src_pages_errorinsights_jsx",
+      "community": 0,
+      "norm_label": "errorinsights.jsx"
+    },
+    {
+      "label": "ErrorInsights()",
+      "file_type": "code",
+      "source_file": "frontend/src/pages/ErrorInsights.jsx",
+      "source_location": "L1",
+      "id": "pages_errorinsights_errorinsights",
+      "community": 0,
+      "norm_label": "errorinsights()"
+    },
+    {
+      "label": "ReposPage.jsx",
+      "file_type": "code",
+      "source_file": "frontend/src/pages/ReposPage.jsx",
+      "source_location": "L1",
+      "id": "frontend_src_pages_repospage_jsx",
+      "community": 10,
+      "norm_label": "repospage.jsx"
+    },
+    {
+      "label": "ReposPage()",
+      "file_type": "code",
+      "source_file": "frontend/src/pages/ReposPage.jsx",
+      "source_location": "L4",
+      "id": "pages_repospage_repospage",
+      "community": 10,
+      "norm_label": "repospage()"
+    },
+    {
+      "label": "LoginPage.jsx",
+      "file_type": "code",
+      "source_file": "frontend/src/pages/LoginPage.jsx",
+      "source_location": "L1",
+      "id": "frontend_src_pages_loginpage_jsx",
+      "community": 5,
+      "norm_label": "loginpage.jsx"
+    },
+    {
+      "label": "LoginPage()",
+      "file_type": "code",
+      "source_file": "frontend/src/pages/LoginPage.jsx",
+      "source_location": "L5",
+      "id": "pages_loginpage_loginpage",
+      "community": 5,
+      "norm_label": "loginpage()"
+    },
+    {
+      "label": "RegisterPage.jsx",
+      "file_type": "code",
+      "source_file": "frontend/src/pages/RegisterPage.jsx",
+      "source_location": "L1",
+      "id": "frontend_src_pages_registerpage_jsx",
+      "community": 5,
+      "norm_label": "registerpage.jsx"
+    },
+    {
+      "label": "RegisterPage()",
+      "file_type": "code",
+      "source_file": "frontend/src/pages/RegisterPage.jsx",
+      "source_location": "L5",
+      "id": "pages_registerpage_registerpage",
+      "community": 5,
+      "norm_label": "registerpage()"
+    },
+    {
+      "label": "Settings.jsx",
+      "file_type": "code",
+      "source_file": "frontend/src/pages/Settings.jsx",
+      "source_location": "L1",
+      "id": "frontend_src_pages_settings_jsx",
+      "community": 0,
+      "norm_label": "settings.jsx"
+    },
+    {
+      "label": "Settings()",
+      "file_type": "code",
+      "source_file": "frontend/src/pages/Settings.jsx",
+      "source_location": "L1",
+      "id": "pages_settings_settings",
+      "community": 0,
+      "norm_label": "settings()"
+    },
+    {
+      "label": "LandingPage.jsx",
+      "file_type": "code",
+      "source_file": "frontend/src/pages/LandingPage.jsx",
+      "source_location": "L1",
+      "id": "frontend_src_pages_landingpage_jsx",
+      "community": 0,
+      "norm_label": "landingpage.jsx"
+    },
+    {
+      "label": "LandingPage()",
+      "file_type": "code",
+      "source_file": "frontend/src/pages/LandingPage.jsx",
+      "source_location": "L3",
+      "id": "pages_landingpage_landingpage",
+      "community": 0,
+      "norm_label": "landingpage()"
+    },
+    {
+      "label": "db.py",
+      "file_type": "code",
+      "source_file": "backend/db.py",
+      "source_location": "L1",
+      "id": "backend_db_py",
+      "community": 15,
+      "norm_label": "db.py"
+    },
+    {
+      "label": "tasks.py",
+      "file_type": "code",
+      "source_file": "backend/tasks.py",
+      "source_location": "L1",
+      "id": "backend_tasks_py",
+      "community": 11,
+      "norm_label": "tasks.py"
+    },
+    {
+      "label": "sync_repositories()",
+      "file_type": "code",
+      "source_file": "backend/tasks.py",
+      "source_location": "L6",
+      "id": "backend_tasks_sync_repositories",
+      "community": 11,
+      "norm_label": "sync_repositories()"
+    },
+    {
+      "label": "configure_scheduler()",
+      "file_type": "code",
+      "source_file": "backend/tasks.py",
+      "source_location": "L11",
+      "id": "backend_tasks_configure_scheduler",
+      "community": 11,
+      "norm_label": "configure_scheduler()"
+    },
+    {
+      "label": "config.py",
+      "file_type": "code",
+      "source_file": "backend/config.py",
+      "source_location": "L1",
+      "id": "backend_config_py",
+      "community": 7,
+      "norm_label": "config.py"
+    },
+    {
+      "label": "Config",
+      "file_type": "code",
+      "source_file": "backend/config.py",
+      "source_location": "L7",
+      "id": "backend_config_config",
+      "community": 7,
+      "norm_label": "config"
+    },
+    {
+      "label": "models.py",
+      "file_type": "code",
+      "source_file": "backend/models.py",
+      "source_location": "L1",
+      "id": "backend_models_py",
+      "community": 4,
+      "norm_label": "models.py"
+    },
+    {
+      "label": "User",
+      "file_type": "code",
+      "source_file": "backend/models.py",
+      "source_location": "L5",
+      "id": "backend_models_user",
+      "community": 8,
+      "norm_label": "user"
+    },
+    {
+      "label": "Repository",
+      "file_type": "code",
+      "source_file": "backend/models.py",
+      "source_location": "L17",
+      "id": "backend_models_repository",
+      "community": 4,
+      "norm_label": "repository"
+    },
+    {
+      "label": "Pipeline",
+      "file_type": "code",
+      "source_file": "backend/models.py",
+      "source_location": "L32",
+      "id": "backend_models_pipeline",
+      "community": 2,
+      "norm_label": "pipeline"
+    },
+    {
+      "label": "WorkflowTemplate",
+      "file_type": "code",
+      "source_file": "backend/models.py",
+      "source_location": "L45",
+      "id": "backend_models_workflowtemplate",
+      "community": 4,
+      "norm_label": "workflowtemplate"
+    },
+    {
+      "label": "Deployment",
+      "file_type": "code",
+      "source_file": "backend/models.py",
+      "source_location": "L54",
+      "id": "backend_models_deployment",
+      "community": 4,
+      "norm_label": "deployment"
+    },
+    {
+      "label": "WorkflowLog",
+      "file_type": "code",
+      "source_file": "backend/models.py",
+      "source_location": "L67",
+      "id": "backend_models_workflowlog",
+      "community": 4,
+      "norm_label": "workflowlog"
+    },
+    {
+      "label": "Notification",
+      "file_type": "code",
+      "source_file": "backend/models.py",
+      "source_location": "L78",
+      "id": "backend_models_notification",
+      "community": 4,
+      "norm_label": "notification"
+    },
+    {
+      "label": "Analytics",
+      "file_type": "code",
+      "source_file": "backend/models.py",
+      "source_location": "L89",
+      "id": "backend_models_analytics",
+      "community": 4,
+      "norm_label": "analytics"
+    },
+    {
+      "label": "ErrorReport",
+      "file_type": "code",
+      "source_file": "backend/models.py",
+      "source_location": "L100",
+      "id": "backend_models_errorreport",
+      "community": 4,
+      "norm_label": "errorreport"
+    },
+    {
+      "label": "AIPrediction",
+      "file_type": "code",
+      "source_file": "backend/models.py",
+      "source_location": "L112",
+      "id": "backend_models_aiprediction",
+      "community": 4,
+      "norm_label": "aiprediction"
+    },
+    {
+      "label": "CloudDeployment",
+      "file_type": "code",
+      "source_file": "backend/models.py",
+      "source_location": "L123",
+      "id": "backend_models_clouddeployment",
+      "community": 4,
+      "norm_label": "clouddeployment"
+    },
+    {
+      "label": "DeploymentServer",
+      "file_type": "code",
+      "source_file": "backend/models.py",
+      "source_location": "L134",
+      "id": "backend_models_deploymentserver",
+      "community": 4,
+      "norm_label": "deploymentserver"
+    },
+    {
+      "label": "__init__.py",
+      "file_type": "code",
+      "source_file": "backend/__init__.py",
+      "source_location": "L1",
+      "id": "backend_init_py",
+      "community": 16,
+      "norm_label": "__init__.py"
+    },
+    {
+      "label": "app.py",
+      "file_type": "code",
+      "source_file": "backend/app.py",
+      "source_location": "L1",
+      "id": "backend_app_py",
+      "community": 11,
+      "norm_label": "app.py"
+    },
+    {
+      "label": "create_app()",
+      "file_type": "code",
+      "source_file": "backend/app.py",
+      "source_location": "L18",
+      "id": "backend_app_create_app",
+      "community": 11,
+      "norm_label": "create_app()"
+    },
+    {
+      "label": "auth.py",
+      "file_type": "code",
+      "source_file": "backend/routes/auth.py",
+      "source_location": "L1",
+      "id": "backend_routes_auth_py",
+      "community": 8,
+      "norm_label": "auth.py"
+    },
+    {
+      "label": "register()",
+      "file_type": "code",
+      "source_file": "backend/routes/auth.py",
+      "source_location": "L12",
+      "id": "routes_auth_register",
+      "community": 8,
+      "norm_label": "register()"
+    },
+    {
+      "label": "login()",
+      "file_type": "code",
+      "source_file": "backend/routes/auth.py",
+      "source_location": "L37",
+      "id": "routes_auth_login",
+      "community": 8,
+      "norm_label": "login()"
+    },
+    {
+      "label": "profile()",
+      "file_type": "code",
+      "source_file": "backend/routes/auth.py",
+      "source_location": "L52",
+      "id": "routes_auth_profile",
+      "community": 8,
+      "norm_label": "profile()"
+    },
+    {
+      "label": "github_login()",
+      "file_type": "code",
+      "source_file": "backend/routes/auth.py",
+      "source_location": "L61",
+      "id": "routes_auth_github_login",
+      "community": 8,
+      "norm_label": "github_login()"
+    },
+    {
+      "label": "github_callback()",
+      "file_type": "code",
+      "source_file": "backend/routes/auth.py",
+      "source_location": "L70",
+      "id": "routes_auth_github_callback",
+      "community": 8,
+      "norm_label": "github_callback()"
+    },
+    {
+      "label": "deploy.py",
+      "file_type": "code",
+      "source_file": "backend/routes/deploy.py",
+      "source_location": "L1",
+      "id": "backend_routes_deploy_py",
+      "community": 9,
+      "norm_label": "deploy.py"
+    },
+    {
+      "label": "deploy_aws()",
+      "file_type": "code",
+      "source_file": "backend/routes/deploy.py",
+      "source_location": "L11",
+      "id": "routes_deploy_deploy_aws",
+      "community": 9,
+      "norm_label": "deploy_aws()"
+    },
+    {
+      "label": "__init__.py",
+      "file_type": "code",
+      "source_file": "backend/routes/__init__.py",
+      "source_location": "L1",
+      "id": "backend_routes_init_py",
+      "community": 17,
+      "norm_label": "__init__.py"
+    },
+    {
+      "label": "pipeline.py",
+      "file_type": "code",
+      "source_file": "backend/routes/pipeline.py",
+      "source_location": "L1",
+      "id": "backend_routes_pipeline_py",
+      "community": 2,
+      "norm_label": "pipeline.py"
+    },
+    {
+      "label": "trigger_pipeline()",
+      "file_type": "code",
+      "source_file": "backend/routes/pipeline.py",
+      "source_location": "L12",
+      "id": "routes_pipeline_trigger_pipeline",
+      "community": 2,
+      "norm_label": "trigger_pipeline()"
+    },
+    {
+      "label": "fetch_logs()",
+      "file_type": "code",
+      "source_file": "backend/routes/pipeline.py",
+      "source_location": "L32",
+      "id": "routes_pipeline_fetch_logs",
+      "community": 2,
+      "norm_label": "fetch_logs()"
+    },
+    {
+      "label": "analyze_pipeline()",
+      "file_type": "code",
+      "source_file": "backend/routes/pipeline.py",
+      "source_location": "L40",
+      "id": "routes_pipeline_analyze_pipeline",
+      "community": 2,
+      "norm_label": "analyze_pipeline()"
+    },
+    {
+      "label": "pipeline_history()",
+      "file_type": "code",
+      "source_file": "backend/routes/pipeline.py",
+      "source_location": "L50",
+      "id": "routes_pipeline_pipeline_history",
+      "community": 2,
+      "norm_label": "pipeline_history()"
+    },
+    {
+      "label": "analytics.py",
+      "file_type": "code",
+      "source_file": "backend/routes/analytics.py",
+      "source_location": "L1",
+      "id": "backend_routes_analytics_py",
+      "community": 6,
+      "norm_label": "analytics.py"
+    },
+    {
+      "label": "dashboard_metrics()",
+      "file_type": "code",
+      "source_file": "backend/routes/analytics.py",
+      "source_location": "L10",
+      "id": "routes_analytics_dashboard_metrics",
+      "community": 6,
+      "norm_label": "dashboard_metrics()"
+    },
+    {
+      "label": "github.py",
+      "file_type": "code",
+      "source_file": "backend/routes/github.py",
+      "source_location": "L1",
+      "id": "backend_routes_github_py",
+      "community": 3,
+      "norm_label": "github.py"
+    },
+    {
+      "label": "list_repositories()",
+      "file_type": "code",
+      "source_file": "backend/routes/github.py",
+      "source_location": "L13",
+      "id": "routes_github_list_repositories",
+      "community": 3,
+      "norm_label": "list_repositories()"
+    },
+    {
+      "label": "connect_repository()",
+      "file_type": "code",
+      "source_file": "backend/routes/github.py",
+      "source_location": "L37",
+      "id": "routes_github_connect_repository",
+      "community": 3,
+      "norm_label": "connect_repository()"
+    },
+    {
+      "label": "generate_workflow()",
+      "file_type": "code",
+      "source_file": "backend/routes/github.py",
+      "source_location": "L72",
+      "id": "routes_github_generate_workflow",
+      "community": 3,
+      "norm_label": "generate_workflow()"
+    },
+    {
+      "label": "github_webhook()",
+      "file_type": "code",
+      "source_file": "backend/routes/github.py",
+      "source_location": "L83",
+      "id": "routes_github_github_webhook",
+      "community": 3,
+      "norm_label": "github_webhook()"
+    },
+    {
+      "label": "ai_service.py",
+      "file_type": "code",
+      "source_file": "backend/services/ai_service.py",
+      "source_location": "L1",
+      "id": "backend_services_ai_service_py",
+      "community": 2,
+      "norm_label": "ai_service.py"
+    },
+    {
+      "label": "AIService",
+      "file_type": "code",
+      "source_file": "backend/services/ai_service.py",
+      "source_location": "L5",
+      "id": "services_ai_service_aiservice",
+      "community": 2,
+      "norm_label": "aiservice"
+    },
+    {
+      "label": ".__init__()",
+      "file_type": "code",
+      "source_file": "backend/services/ai_service.py",
+      "source_location": "L6",
+      "id": "services_ai_service_aiservice_init",
+      "community": 2,
+      "norm_label": ".__init__()"
+    },
+    {
+      "label": ".analyze_logs()",
+      "file_type": "code",
+      "source_file": "backend/services/ai_service.py",
+      "source_location": "L9",
+      "id": "services_ai_service_aiservice_analyze_logs",
+      "community": 2,
+      "norm_label": ".analyze_logs()"
+    },
+    {
+      "label": ".explain_error()",
+      "file_type": "code",
+      "source_file": "backend/services/ai_service.py",
+      "source_location": "L29",
+      "id": "services_ai_service_aiservice_explain_error",
+      "community": 2,
+      "norm_label": ".explain_error()"
+    },
+    {
+      "label": "github_service.py",
+      "file_type": "code",
+      "source_file": "backend/services/github_service.py",
+      "source_location": "L1",
+      "id": "backend_services_github_service_py",
+      "community": 3,
+      "norm_label": "github_service.py"
+    },
+    {
+      "label": "GitHubService",
+      "file_type": "code",
+      "source_file": "backend/services/github_service.py",
+      "source_location": "L5",
+      "id": "services_github_service_githubservice",
+      "community": 3,
+      "norm_label": "githubservice"
+    },
+    {
+      "label": ".__init__()",
+      "file_type": "code",
+      "source_file": "backend/services/github_service.py",
+      "source_location": "L6",
+      "id": "services_github_service_githubservice_init",
+      "community": 3,
+      "norm_label": ".__init__()"
+    },
+    {
+      "label": ".list_user_repositories()",
+      "file_type": "code",
+      "source_file": "backend/services/github_service.py",
+      "source_location": "L13",
+      "id": "services_github_service_githubservice_list_user_repositories",
+      "community": 3,
+      "norm_label": ".list_user_repositories()"
+    },
+    {
+      "label": ".get_repository()",
+      "file_type": "code",
+      "source_file": "backend/services/github_service.py",
+      "source_location": "L18",
+      "id": "services_github_service_githubservice_get_repository",
+      "community": 3,
+      "norm_label": ".get_repository()"
+    },
+    {
+      "label": "generate_workflow_template()",
+      "file_type": "code",
+      "source_file": "backend/services/github_service.py",
+      "source_location": "L24",
+      "id": "services_github_service_generate_workflow_template",
+      "community": 3,
+      "norm_label": "generate_workflow_template()"
+    },
+    {
+      "label": "__init__.py",
+      "file_type": "code",
+      "source_file": "backend/services/__init__.py",
+      "source_location": "L1",
+      "id": "backend_services_init_py",
+      "community": 18,
+      "norm_label": "__init__.py"
+    },
+    {
+      "label": "deployment_service.py",
+      "file_type": "code",
+      "source_file": "backend/services/deployment_service.py",
+      "source_location": "L1",
+      "id": "backend_services_deployment_service_py",
+      "community": 9,
+      "norm_label": "deployment_service.py"
+    },
+    {
+      "label": "DeploymentService",
+      "file_type": "code",
+      "source_file": "backend/services/deployment_service.py",
+      "source_location": "L7",
+      "id": "services_deployment_service_deploymentservice",
+      "community": 9,
+      "norm_label": "deploymentservice"
+    },
+    {
+      "label": ".__init__()",
+      "file_type": "code",
+      "source_file": "backend/services/deployment_service.py",
+      "source_location": "L8",
+      "id": "services_deployment_service_deploymentservice_init",
+      "community": 9,
+      "norm_label": ".__init__()"
+    },
+    {
+      "label": ".deploy_to_ec2()",
+      "file_type": "code",
+      "source_file": "backend/services/deployment_service.py",
+      "source_location": "L13",
+      "id": "services_deployment_service_deploymentservice_deploy_to_ec2",
+      "community": 9,
+      "norm_label": ".deploy_to_ec2()"
+    },
+    {
+      "label": "._get_or_create_ec2_instance()",
+      "file_type": "code",
+      "source_file": "backend/services/deployment_service.py",
+      "source_location": "L25",
+      "id": "services_deployment_service_deploymentservice_get_or_create_ec2_instance",
+      "community": 9,
+      "norm_label": "._get_or_create_ec2_instance()"
+    },
+    {
+      "label": ".build_docker_image()",
+      "file_type": "code",
+      "source_file": "backend/services/deployment_service.py",
+      "source_location": "L44",
+      "id": "services_deployment_service_deploymentservice_build_docker_image",
+      "community": 9,
+      "norm_label": ".build_docker_image()"
+    },
+    {
+      "label": "cache_service.py",
+      "file_type": "code",
+      "source_file": "backend/services/cache_service.py",
+      "source_location": "L1",
+      "id": "backend_services_cache_service_py",
+      "community": 7,
+      "norm_label": "cache_service.py"
+    },
+    {
+      "label": "CacheService",
+      "file_type": "code",
+      "source_file": "backend/services/cache_service.py",
+      "source_location": "L5",
+      "id": "services_cache_service_cacheservice",
+      "community": 7,
+      "norm_label": "cacheservice"
+    },
+    {
+      "label": ".__init__()",
+      "file_type": "code",
+      "source_file": "backend/services/cache_service.py",
+      "source_location": "L6",
+      "id": "services_cache_service_cacheservice_init",
+      "community": 7,
+      "norm_label": ".__init__()"
+    },
+    {
+      "label": ".get()",
+      "file_type": "code",
+      "source_file": "backend/services/cache_service.py",
+      "source_location": "L9",
+      "id": "services_cache_service_cacheservice_get",
+      "community": 7,
+      "norm_label": ".get()"
+    },
+    {
+      "label": ".set()",
+      "file_type": "code",
+      "source_file": "backend/services/cache_service.py",
+      "source_location": "L12",
+      "id": "services_cache_service_cacheservice_set",
+      "community": 7,
+      "norm_label": ".set()"
+    },
+    {
+      "label": ".delete()",
+      "file_type": "code",
+      "source_file": "backend/services/cache_service.py",
+      "source_location": "L15",
+      "id": "services_cache_service_cacheservice_delete",
+      "community": 7,
+      "norm_label": ".delete()"
+    },
+    {
+      "label": "tf_predictor.py",
+      "file_type": "code",
+      "source_file": "backend/services/tf_predictor.py",
+      "source_location": "L1",
+      "id": "backend_services_tf_predictor_py",
+      "community": 6,
+      "norm_label": "tf_predictor.py"
+    },
+    {
+      "label": "TFPredictor",
+      "file_type": "code",
+      "source_file": "backend/services/tf_predictor.py",
+      "source_location": "L5",
+      "id": "services_tf_predictor_tfpredictor",
+      "community": 6,
+      "norm_label": "tfpredictor"
+    },
+    {
+      "label": ".__init__()",
+      "file_type": "code",
+      "source_file": "backend/services/tf_predictor.py",
+      "source_location": "L6",
+      "id": "services_tf_predictor_tfpredictor_init",
+      "community": 6,
+      "norm_label": ".__init__()"
+    },
+    {
+      "label": ".build_model()",
+      "file_type": "code",
+      "source_file": "backend/services/tf_predictor.py",
+      "source_location": "L9",
+      "id": "services_tf_predictor_tfpredictor_build_model",
+      "community": 6,
+      "norm_label": ".build_model()"
+    },
+    {
+      "label": ".predict_failure_risk()",
+      "file_type": "code",
+      "source_file": "backend/services/tf_predictor.py",
+      "source_location": "L19",
+      "id": "services_tf_predictor_tfpredictor_predict_failure_risk",
+      "community": 6,
+      "norm_label": ".predict_failure_risk()"
+    },
+    {
+      "label": ".train()",
+      "file_type": "code",
+      "source_file": "backend/services/tf_predictor.py",
+      "source_location": "L24",
+      "id": "services_tf_predictor_tfpredictor_train",
+      "community": 6,
+      "norm_label": ".train()"
+    },
+    {
+      "label": "deploy_ec2.sh",
+      "file_type": "code",
+      "source_file": "scripts/deploy_ec2.sh",
+      "source_location": "L1",
+      "id": "scripts_deploy_ec2_sh",
+      "community": 19,
+      "norm_label": "deploy_ec2.sh"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "readme_md",
+      "community": 20,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "Pipeline.sh",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "natural_cicd_readme_pipeline_sh",
+      "community": 20,
+      "norm_label": "pipeline.sh"
+    },
+    {
+      "label": "Features",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L5",
+      "id": "natural_cicd_readme_features",
+      "community": 20,
+      "norm_label": "features"
+    },
+    {
+      "label": "Project Structure",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L15",
+      "id": "natural_cicd_readme_project_structure",
+      "community": 20,
+      "norm_label": "project structure"
+    },
+    {
+      "label": "Setup",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L23",
+      "id": "natural_cicd_readme_setup",
+      "community": 20,
+      "norm_label": "setup"
+    },
+    {
+      "label": "code:bash (docker compose up --build)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L26",
+      "id": "natural_cicd_readme_codeblock_1",
+      "community": 20,
+      "norm_label": "code:bash (docker compose up --build)"
+    },
+    {
+      "label": "code:bash (docker compose exec backend flask db upgrade)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L30",
+      "id": "natural_cicd_readme_codeblock_2",
+      "community": 20,
+      "norm_label": "code:bash (docker compose exec backend flask db upgrade)"
+    },
+    {
+      "label": "Development",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L35",
+      "id": "natural_cicd_readme_development",
+      "community": 20,
+      "norm_label": "development"
+    },
+    {
+      "label": "Deployment",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L39",
+      "id": "natural_cicd_readme_deployment",
+      "community": 20,
+      "norm_label": "deployment"
+    },
+    {
+      "label": "Notes",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L43",
+      "id": "natural_cicd_readme_notes",
+      "community": 20,
+      "norm_label": "notes"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/package.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_package_json",
+      "target": "frontend_package_name"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/package.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_package_json",
+      "target": "frontend_package_version"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/package.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_package_json",
+      "target": "frontend_package_private"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/package.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_package_json",
+      "target": "frontend_package_type"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/package.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_package_json",
+      "target": "frontend_package_scripts"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/package.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_package_json",
+      "target": "frontend_package_dependencies"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/package.json",
+      "source_location": "L18",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_package_json",
+      "target": "frontend_package_devdependencies"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/package.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_package_scripts",
+      "target": "frontend_package_scripts_dev"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/package.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_package_scripts",
+      "target": "frontend_package_scripts_build"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/package.json",
+      "source_location": "L9",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_package_scripts",
+      "target": "frontend_package_scripts_preview"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/package.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_package_dependencies",
+      "target": "frontend_package_dependencies_axios"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/package.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_package_dependencies",
+      "target": "frontend_package_dependencies_react"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/package.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_package_dependencies",
+      "target": "frontend_package_dependencies_react_dom"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/package.json",
+      "source_location": "L15",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_package_dependencies",
+      "target": "frontend_package_dependencies_react_router_dom"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/package.json",
+      "source_location": "L16",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_package_dependencies",
+      "target": "frontend_package_dependencies_recharts"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/package.json",
+      "source_location": "L19",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_package_devdependencies",
+      "target": "frontend_package_devdependencies_vitejs_plugin_react"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/package.json",
+      "source_location": "L20",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_package_devdependencies",
+      "target": "frontend_package_devdependencies_autoprefixer"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/package.json",
+      "source_location": "L21",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_package_devdependencies",
+      "target": "frontend_package_devdependencies_postcss"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/package.json",
+      "source_location": "L22",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_package_devdependencies",
+      "target": "frontend_package_devdependencies_tailwindcss"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/package.json",
+      "source_location": "L23",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_package_devdependencies",
+      "target": "frontend_package_devdependencies_vite"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/main.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_main_jsx",
+      "target": "frontend_src_app_jsx"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/App.jsx",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "frontend_src_app_jsx",
+      "target": "frontend_src_pages_landingpage_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/App.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_app_jsx",
+      "target": "frontend_src_pages_loginpage_jsx"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/App.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_app_jsx",
+      "target": "frontend_src_pages_registerpage_jsx"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/App.jsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "frontend_src_app_jsx",
+      "target": "frontend_src_pages_dashboard_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/App.jsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "frontend_src_app_jsx",
+      "target": "frontend_src_pages_repospage_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/App.jsx",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "frontend_src_app_jsx",
+      "target": "frontend_src_pages_workflowbuilder_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/App.jsx",
+      "source_location": "L8",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_app_jsx",
+      "target": "frontend_src_pages_deploymentmonitor_jsx"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/App.jsx",
+      "source_location": "L9",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_app_jsx",
+      "target": "frontend_src_pages_logsviewer_jsx"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/App.jsx",
+      "source_location": "L10",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_app_jsx",
+      "target": "frontend_src_pages_analytics_jsx"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/App.jsx",
+      "source_location": "L11",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_app_jsx",
+      "target": "frontend_src_pages_errorinsights_jsx"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/App.jsx",
+      "source_location": "L12",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_app_jsx",
+      "target": "frontend_src_pages_profile_jsx"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/App.jsx",
+      "source_location": "L13",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_app_jsx",
+      "target": "frontend_src_pages_settings_jsx"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/App.jsx",
+      "source_location": "L14",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_app_jsx",
+      "target": "frontend_src_components_sidebar_jsx"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/App.jsx",
+      "source_location": "L15",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_app_jsx",
+      "target": "frontend_src_components_header_jsx"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/App.jsx",
+      "source_location": "L17",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_app_jsx",
+      "target": "src_app_app"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/App.jsx",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_app_jsx",
+      "target": "pages_landingpage_landingpage"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/App.jsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_app_jsx",
+      "target": "pages_dashboard_dashboard"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/App.jsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_app_jsx",
+      "target": "pages_repospage_repospage"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/App.jsx",
+      "source_location": "L7",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_app_jsx",
+      "target": "pages_workflowbuilder_workflowbuilder"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/api.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_api_js",
+      "target": "src_api_api"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/api.js",
+      "source_location": "L10",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_api_js",
+      "target": "src_api_setauthtoken"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/hooks/useAuth.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_hooks_useauth_js",
+      "target": "frontend_src_api_js"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/pages/RegisterPage.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_pages_registerpage_jsx",
+      "target": "frontend_src_api_js"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/hooks/useAuth.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_hooks_useauth_js",
+      "target": "src_api_setauthtoken"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/components/Header.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_components_header_jsx",
+      "target": "components_header_header"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/components/PipelineCard.jsx",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "frontend_src_components_pipelinecard_jsx",
+      "target": "components_pipelinecard_pipelinecard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/pages/Dashboard.jsx",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "frontend_src_pages_dashboard_jsx",
+      "target": "frontend_src_components_pipelinecard_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/pages/Dashboard.jsx",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pages_dashboard_dashboard",
+      "target": "components_pipelinecard_pipelinecard"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/components/ChartCard.jsx",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "frontend_src_components_chartcard_jsx",
+      "target": "components_chartcard_chartcard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/pages/Dashboard.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "frontend_src_pages_dashboard_jsx",
+      "target": "frontend_src_components_chartcard_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/pages/Dashboard.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pages_dashboard_dashboard",
+      "target": "components_chartcard_chartcard"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/components/Sidebar.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_components_sidebar_jsx",
+      "target": "components_sidebar_links"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/components/Sidebar.jsx",
+      "source_location": "L15",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_components_sidebar_jsx",
+      "target": "components_sidebar_sidebar"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/components/RepoCard.jsx",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_components_repocard_jsx",
+      "target": "components_repocard_repocard"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/pages/Dashboard.jsx",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "frontend_src_pages_dashboard_jsx",
+      "target": "frontend_src_components_repocard_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/pages/ReposPage.jsx",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "frontend_src_pages_repospage_jsx",
+      "target": "frontend_src_components_repocard_jsx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/pages/Dashboard.jsx",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pages_dashboard_dashboard",
+      "target": "frontend_src_components_repocard_jsx"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/pages/ReposPage.jsx",
+      "source_location": "L2",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "pages_repospage_repospage",
+      "target": "frontend_src_components_repocard_jsx"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/hooks/useAuth.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_hooks_useauth_js",
+      "target": "hooks_useauth_useauth"
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/pages/LoginPage.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_pages_loginpage_jsx",
+      "target": "frontend_src_hooks_useauth_js"
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/pages/LoginPage.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_pages_loginpage_jsx",
+      "target": "hooks_useauth_useauth"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "frontend/src/pages/LoginPage.jsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "pages_loginpage_loginpage",
+      "target": "hooks_useauth_useauth"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/pages/Profile.jsx",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_pages_profile_jsx",
+      "target": "pages_profile_profile"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/pages/Analytics.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_pages_analytics_jsx",
+      "target": "pages_analytics_data"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/pages/Analytics.jsx",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "frontend_src_pages_analytics_jsx",
+      "target": "pages_analytics_analytics",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/pages/Analytics.jsx",
+      "source_location": "L11",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_pages_analytics_jsx",
+      "target": "backend_models_analytics"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/pages/WorkflowBuilder.jsx",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "frontend_src_pages_workflowbuilder_jsx",
+      "target": "pages_workflowbuilder_workflowbuilder",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/pages/LogsViewer.jsx",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_pages_logsviewer_jsx",
+      "target": "pages_logsviewer_logsviewer"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/pages/DeploymentMonitor.jsx",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "frontend_src_pages_deploymentmonitor_jsx",
+      "target": "pages_deploymentmonitor_deploymentmonitor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/pages/Dashboard.jsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "frontend_src_pages_dashboard_jsx",
+      "target": "pages_dashboard_dashboard",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/pages/ErrorInsights.jsx",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_pages_errorinsights_jsx",
+      "target": "pages_errorinsights_errorinsights"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/pages/ReposPage.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "frontend_src_pages_repospage_jsx",
+      "target": "pages_repospage_repospage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/pages/LoginPage.jsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_pages_loginpage_jsx",
+      "target": "pages_loginpage_loginpage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/pages/RegisterPage.jsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_pages_registerpage_jsx",
+      "target": "pages_registerpage_registerpage"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/pages/Settings.jsx",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "frontend_src_pages_settings_jsx",
+      "target": "pages_settings_settings"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/src/pages/LandingPage.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "frontend_src_pages_landingpage_jsx",
+      "target": "pages_landingpage_landingpage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/tasks.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_tasks_py",
+      "target": "backend_tasks_sync_repositories"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/tasks.py",
+      "source_location": "L11",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_tasks_py",
+      "target": "backend_tasks_configure_scheduler"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "backend/app.py",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "backend_app_create_app",
+      "target": "backend_tasks_configure_scheduler"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/config.py",
+      "source_location": "L7",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_config_py",
+      "target": "backend_config_config"
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "backend/services/cache_service.py",
+      "source_location": "L2",
+      "weight": 0.8,
+      "source": "services_cache_service_cacheservice",
+      "target": "backend_config_config",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "backend/services/cache_service.py",
+      "source_location": "L2",
+      "weight": 0.8,
+      "confidence_score": 0.5,
+      "source": "backend_services_cache_service_py",
+      "target": "backend_config_config"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/models.py",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_models_py",
+      "target": "backend_models_user"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/models.py",
+      "source_location": "L17",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_models_py",
+      "target": "backend_models_repository"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/models.py",
+      "source_location": "L32",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_models_py",
+      "target": "backend_models_pipeline"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/models.py",
+      "source_location": "L45",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_models_py",
+      "target": "backend_models_workflowtemplate"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/models.py",
+      "source_location": "L54",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_models_py",
+      "target": "backend_models_deployment"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/models.py",
+      "source_location": "L67",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_models_py",
+      "target": "backend_models_workflowlog"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/models.py",
+      "source_location": "L78",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_models_py",
+      "target": "backend_models_notification"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/models.py",
+      "source_location": "L89",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_models_py",
+      "target": "backend_models_analytics"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/models.py",
+      "source_location": "L100",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_models_py",
+      "target": "backend_models_errorreport"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/models.py",
+      "source_location": "L112",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_models_py",
+      "target": "backend_models_aiprediction"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/models.py",
+      "source_location": "L123",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_models_py",
+      "target": "backend_models_clouddeployment"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/models.py",
+      "source_location": "L134",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_models_py",
+      "target": "backend_models_deploymentserver"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "backend/routes/auth.py",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "routes_auth_register",
+      "target": "backend_models_user"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "backend/routes/auth.py",
+      "source_location": "L90",
+      "weight": 1.0,
+      "source": "routes_auth_github_callback",
+      "target": "backend_models_user"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "backend/routes/github.py",
+      "source_location": "L50",
+      "weight": 1.0,
+      "source": "routes_github_connect_repository",
+      "target": "backend_models_repository"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "backend/routes/pipeline.py",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "routes_pipeline_trigger_pipeline",
+      "target": "backend_models_pipeline"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/routes/analytics.py",
+      "source_location": "L10",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_models_analytics",
+      "target": "routes_analytics_dashboard_metrics"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/app.py",
+      "source_location": "L18",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_app_py",
+      "target": "backend_app_create_app"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/routes/auth.py",
+      "source_location": "L12",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_routes_auth_py",
+      "target": "routes_auth_register"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/routes/auth.py",
+      "source_location": "L37",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_routes_auth_py",
+      "target": "routes_auth_login"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/routes/auth.py",
+      "source_location": "L52",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_routes_auth_py",
+      "target": "routes_auth_profile"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/routes/auth.py",
+      "source_location": "L61",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_routes_auth_py",
+      "target": "routes_auth_github_login"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/routes/auth.py",
+      "source_location": "L70",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_routes_auth_py",
+      "target": "routes_auth_github_callback"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/routes/deploy.py",
+      "source_location": "L11",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_routes_deploy_py",
+      "target": "routes_deploy_deploy_aws"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "backend/routes/deploy.py",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "routes_deploy_deploy_aws",
+      "target": "services_deployment_service_deploymentservice"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "backend/routes/deploy.py",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "routes_deploy_deploy_aws",
+      "target": "backend_services_deployment_service_py"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/routes/pipeline.py",
+      "source_location": "L12",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_routes_pipeline_py",
+      "target": "routes_pipeline_trigger_pipeline"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/routes/pipeline.py",
+      "source_location": "L32",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_routes_pipeline_py",
+      "target": "routes_pipeline_fetch_logs"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/routes/pipeline.py",
+      "source_location": "L40",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_routes_pipeline_py",
+      "target": "routes_pipeline_analyze_pipeline"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/routes/pipeline.py",
+      "source_location": "L50",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_routes_pipeline_py",
+      "target": "routes_pipeline_pipeline_history"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "backend/routes/pipeline.py",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "routes_pipeline_analyze_pipeline",
+      "target": "services_ai_service_aiservice"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/routes/analytics.py",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "backend_routes_analytics_py",
+      "target": "routes_analytics_dashboard_metrics",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "backend/routes/analytics.py",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "routes_analytics_dashboard_metrics",
+      "target": "services_tf_predictor_tfpredictor"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "backend/routes/analytics.py",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "routes_analytics_dashboard_metrics",
+      "target": "backend_services_tf_predictor_py"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/routes/github.py",
+      "source_location": "L13",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_routes_github_py",
+      "target": "routes_github_list_repositories"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/routes/github.py",
+      "source_location": "L37",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_routes_github_py",
+      "target": "routes_github_connect_repository"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/routes/github.py",
+      "source_location": "L72",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_routes_github_py",
+      "target": "routes_github_generate_workflow"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/routes/github.py",
+      "source_location": "L83",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_routes_github_py",
+      "target": "routes_github_github_webhook"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "backend/routes/github.py",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "routes_github_list_repositories",
+      "target": "services_github_service_githubservice"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "backend/routes/github.py",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "routes_github_list_repositories",
+      "target": "backend_services_github_service_py"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "backend/routes/github.py",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "routes_github_connect_repository",
+      "target": "services_github_service_githubservice"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "backend/routes/github.py",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "routes_github_connect_repository",
+      "target": "backend_services_github_service_py"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/github_service.py",
+      "source_location": "L24",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_services_github_service_py",
+      "target": "routes_github_generate_workflow"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/ai_service.py",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_services_ai_service_py",
+      "target": "services_ai_service_aiservice"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/ai_service.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "services_ai_service_aiservice",
+      "target": "services_ai_service_aiservice_init"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/ai_service.py",
+      "source_location": "L9",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "services_ai_service_aiservice",
+      "target": "services_ai_service_aiservice_analyze_logs"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/ai_service.py",
+      "source_location": "L29",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "services_ai_service_aiservice",
+      "target": "services_ai_service_aiservice_explain_error"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/github_service.py",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "backend_services_github_service_py",
+      "target": "services_github_service_githubservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/github_service.py",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "backend_services_github_service_py",
+      "target": "services_github_service_generate_workflow_template",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/github_service.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_services_github_service_py",
+      "target": "services_github_service_githubservice_init"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/github_service.py",
+      "source_location": "L13",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_services_github_service_py",
+      "target": "services_github_service_githubservice_list_user_repositories"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/github_service.py",
+      "source_location": "L18",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_services_github_service_py",
+      "target": "services_github_service_githubservice_get_repository"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/github_service.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "services_github_service_githubservice",
+      "target": "services_github_service_githubservice_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/github_service.py",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "services_github_service_githubservice",
+      "target": "services_github_service_githubservice_list_user_repositories",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/github_service.py",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "services_github_service_githubservice",
+      "target": "services_github_service_githubservice_get_repository",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/deployment_service.py",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "backend_services_deployment_service_py",
+      "target": "services_deployment_service_deploymentservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/deployment_service.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_services_deployment_service_py",
+      "target": "services_deployment_service_deploymentservice_init"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/deployment_service.py",
+      "source_location": "L13",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_services_deployment_service_py",
+      "target": "services_deployment_service_deploymentservice_deploy_to_ec2"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/deployment_service.py",
+      "source_location": "L25",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_services_deployment_service_py",
+      "target": "services_deployment_service_deploymentservice_get_or_create_ec2_instance"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/deployment_service.py",
+      "source_location": "L44",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_services_deployment_service_py",
+      "target": "services_deployment_service_deploymentservice_build_docker_image"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/deployment_service.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "services_deployment_service_deploymentservice",
+      "target": "services_deployment_service_deploymentservice_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/deployment_service.py",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "services_deployment_service_deploymentservice",
+      "target": "services_deployment_service_deploymentservice_deploy_to_ec2",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/deployment_service.py",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "services_deployment_service_deploymentservice",
+      "target": "services_deployment_service_deploymentservice_get_or_create_ec2_instance",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/deployment_service.py",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "services_deployment_service_deploymentservice",
+      "target": "services_deployment_service_deploymentservice_build_docker_image",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/deployment_service.py",
+      "source_location": "L14",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "services_deployment_service_deploymentservice_deploy_to_ec2",
+      "target": "services_deployment_service_deploymentservice_get_or_create_ec2_instance"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/cache_service.py",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "backend_services_cache_service_py",
+      "target": "services_cache_service_cacheservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/cache_service.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_services_cache_service_py",
+      "target": "services_cache_service_cacheservice_init"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/cache_service.py",
+      "source_location": "L9",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_services_cache_service_py",
+      "target": "services_cache_service_cacheservice_get"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/cache_service.py",
+      "source_location": "L12",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_services_cache_service_py",
+      "target": "services_cache_service_cacheservice_set"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/cache_service.py",
+      "source_location": "L15",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_services_cache_service_py",
+      "target": "services_cache_service_cacheservice_delete"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/cache_service.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "services_cache_service_cacheservice",
+      "target": "services_cache_service_cacheservice_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/cache_service.py",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "services_cache_service_cacheservice",
+      "target": "services_cache_service_cacheservice_get",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/cache_service.py",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "services_cache_service_cacheservice",
+      "target": "services_cache_service_cacheservice_set",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/cache_service.py",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "services_cache_service_cacheservice",
+      "target": "services_cache_service_cacheservice_delete",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/tf_predictor.py",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "backend_services_tf_predictor_py",
+      "target": "services_tf_predictor_tfpredictor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/tf_predictor.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_services_tf_predictor_py",
+      "target": "services_tf_predictor_tfpredictor_init"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/tf_predictor.py",
+      "source_location": "L9",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_services_tf_predictor_py",
+      "target": "services_tf_predictor_tfpredictor_build_model"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/tf_predictor.py",
+      "source_location": "L19",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_services_tf_predictor_py",
+      "target": "services_tf_predictor_tfpredictor_predict_failure_risk"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/tf_predictor.py",
+      "source_location": "L24",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "backend_services_tf_predictor_py",
+      "target": "services_tf_predictor_tfpredictor_train"
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/tf_predictor.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "services_tf_predictor_tfpredictor",
+      "target": "services_tf_predictor_tfpredictor_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/tf_predictor.py",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "services_tf_predictor_tfpredictor",
+      "target": "services_tf_predictor_tfpredictor_build_model",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/tf_predictor.py",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "services_tf_predictor_tfpredictor",
+      "target": "services_tf_predictor_tfpredictor_predict_failure_risk",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/tf_predictor.py",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "services_tf_predictor_tfpredictor",
+      "target": "services_tf_predictor_tfpredictor_train",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/services/tf_predictor.py",
+      "source_location": "L7",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "services_tf_predictor_tfpredictor_init",
+      "target": "services_tf_predictor_tfpredictor_build_model"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "readme_md",
+      "target": "natural_cicd_readme_pipeline_sh",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "natural_cicd_readme_pipeline_sh",
+      "target": "natural_cicd_readme_features",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "natural_cicd_readme_pipeline_sh",
+      "target": "natural_cicd_readme_project_structure",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "natural_cicd_readme_pipeline_sh",
+      "target": "natural_cicd_readme_setup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "natural_cicd_readme_pipeline_sh",
+      "target": "natural_cicd_readme_development",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "natural_cicd_readme_pipeline_sh",
+      "target": "natural_cicd_readme_deployment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "natural_cicd_readme_pipeline_sh",
+      "target": "natural_cicd_readme_notes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "natural_cicd_readme_setup",
+      "target": "natural_cicd_readme_codeblock_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "natural_cicd_readme_setup",
+      "target": "natural_cicd_readme_codeblock_2",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}

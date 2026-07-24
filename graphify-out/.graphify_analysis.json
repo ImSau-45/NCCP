@@ -1,0 +1,307 @@
+{
+  "communities": {
+    "0": [
+      "components_chartcard_chartcard",
+      "components_header_header",
+      "components_pipelinecard_pipelinecard",
+      "components_repocard_repocard",
+      "components_sidebar_links",
+      "components_sidebar_sidebar",
+      "frontend_src_app_jsx",
+      "frontend_src_components_header_jsx",
+      "frontend_src_components_repocard_jsx",
+      "frontend_src_components_sidebar_jsx",
+      "frontend_src_main_jsx",
+      "frontend_src_pages_deploymentmonitor_jsx",
+      "frontend_src_pages_errorinsights_jsx",
+      "frontend_src_pages_logsviewer_jsx",
+      "frontend_src_pages_profile_jsx",
+      "frontend_src_pages_settings_jsx",
+      "pages_dashboard_dashboard",
+      "pages_errorinsights_errorinsights",
+      "pages_landingpage_landingpage",
+      "pages_logsviewer_logsviewer",
+      "pages_profile_profile",
+      "pages_repospage_repospage",
+      "pages_settings_settings",
+      "pages_workflowbuilder_workflowbuilder",
+      "src_app_app"
+    ],
+    "1": [
+      "frontend_package_devdependencies",
+      "frontend_package_devdependencies_autoprefixer",
+      "frontend_package_devdependencies_postcss",
+      "frontend_package_devdependencies_tailwindcss",
+      "frontend_package_devdependencies_vite",
+      "frontend_package_devdependencies_vitejs_plugin_react",
+      "frontend_package_json",
+      "frontend_package_name",
+      "frontend_package_private",
+      "frontend_package_scripts",
+      "frontend_package_scripts_build",
+      "frontend_package_scripts_dev",
+      "frontend_package_scripts_preview",
+      "frontend_package_type",
+      "frontend_package_version"
+    ],
+    "2": [
+      "backend_models_pipeline",
+      "backend_routes_pipeline_py",
+      "backend_services_ai_service_py",
+      "routes_pipeline_analyze_pipeline",
+      "routes_pipeline_fetch_logs",
+      "routes_pipeline_pipeline_history",
+      "routes_pipeline_trigger_pipeline",
+      "services_ai_service_aiservice",
+      "services_ai_service_aiservice_analyze_logs",
+      "services_ai_service_aiservice_explain_error",
+      "services_ai_service_aiservice_init"
+    ],
+    "3": [
+      "backend_models_repository",
+      "backend_routes_github_py",
+      "backend_services_github_service_py",
+      "routes_github_connect_repository",
+      "routes_github_generate_workflow",
+      "routes_github_github_webhook",
+      "routes_github_list_repositories",
+      "services_github_service_githubservice_get_repository",
+      "services_github_service_githubservice_init",
+      "services_github_service_githubservice_list_user_repositories"
+    ],
+    "4": [
+      "backend_models_aiprediction",
+      "backend_models_clouddeployment",
+      "backend_models_deployment",
+      "backend_models_deploymentserver",
+      "backend_models_errorreport",
+      "backend_models_notification",
+      "backend_models_py",
+      "backend_models_workflowlog",
+      "backend_models_workflowtemplate"
+    ],
+    "5": [
+      "frontend_src_api_js",
+      "frontend_src_hooks_useauth_js",
+      "frontend_src_pages_loginpage_jsx",
+      "frontend_src_pages_registerpage_jsx",
+      "hooks_useauth_useauth",
+      "pages_loginpage_loginpage",
+      "pages_registerpage_registerpage",
+      "src_api_api",
+      "src_api_setauthtoken"
+    ],
+    "6": [
+      "backend_models_analytics",
+      "backend_services_tf_predictor_py",
+      "frontend_src_pages_analytics_jsx",
+      "pages_analytics_data",
+      "routes_analytics_dashboard_metrics",
+      "services_tf_predictor_tfpredictor_build_model",
+      "services_tf_predictor_tfpredictor_init",
+      "services_tf_predictor_tfpredictor_predict_failure_risk",
+      "services_tf_predictor_tfpredictor_train"
+    ],
+    "7": [
+      "backend_config_config",
+      "backend_config_py",
+      "backend_services_cache_service_py",
+      "services_cache_service_cacheservice_delete",
+      "services_cache_service_cacheservice_get",
+      "services_cache_service_cacheservice_init",
+      "services_cache_service_cacheservice_set"
+    ],
+    "8": [
+      "backend_models_user",
+      "backend_routes_auth_py",
+      "routes_auth_github_callback",
+      "routes_auth_github_login",
+      "routes_auth_login",
+      "routes_auth_profile",
+      "routes_auth_register"
+    ],
+    "9": [
+      "backend_routes_deploy_py",
+      "backend_services_deployment_service_py",
+      "routes_deploy_deploy_aws",
+      "services_deployment_service_deploymentservice_build_docker_image",
+      "services_deployment_service_deploymentservice_deploy_to_ec2",
+      "services_deployment_service_deploymentservice_get_or_create_ec2_instance",
+      "services_deployment_service_deploymentservice_init"
+    ],
+    "10": [
+      "frontend_package_dependencies",
+      "frontend_package_dependencies_axios",
+      "frontend_package_dependencies_react",
+      "frontend_package_dependencies_react_dom",
+      "frontend_package_dependencies_react_router_dom",
+      "frontend_package_dependencies_recharts"
+    ],
+    "11": [
+      "backend_app_create_app",
+      "backend_app_py",
+      "backend_tasks_configure_scheduler",
+      "backend_tasks_py",
+      "backend_tasks_sync_repositories"
+    ],
+    "12": [
+      "frontend_tailwind_config_js"
+    ],
+    "13": [
+      "frontend_vite_config_js"
+    ],
+    "14": [
+      "frontend_postcss_config_js"
+    ],
+    "15": [
+      "backend_db_py"
+    ],
+    "16": [
+      "backend_init_py"
+    ],
+    "17": [
+      "backend_routes_init_py"
+    ],
+    "18": [
+      "backend_services_init_py"
+    ],
+    "19": [
+      "scripts_deploy_ec2_sh"
+    ]
+  },
+  "cohesion": {
+    "0": 0.08333333333333333,
+    "1": 0.13333333333333333,
+    "2": 0.18181818181818182,
+    "3": 0.24444444444444444,
+    "4": 0.2222222222222222,
+    "5": 0.3055555555555556,
+    "6": 0.25,
+    "7": 0.2857142857142857,
+    "8": 0.3333333333333333,
+    "9": 0.3333333333333333,
+    "10": 0.3333333333333333,
+    "11": 0.4,
+    "12": 1.0,
+    "13": 1.0,
+    "14": 1.0,
+    "15": 1.0,
+    "16": 1.0,
+    "17": 1.0,
+    "18": 1.0,
+    "19": 1.0
+  },
+  "gods": [
+    {
+      "id": "services_ai_service_aiservice",
+      "label": "AIService",
+      "degree": 5
+    },
+    {
+      "id": "frontend_package_scripts",
+      "label": "scripts",
+      "degree": 4
+    },
+    {
+      "id": "pages_dashboard_dashboard",
+      "label": "Dashboard()",
+      "degree": 4
+    },
+    {
+      "id": "hooks_useauth_useauth",
+      "label": "useAuth()",
+      "degree": 3
+    },
+    {
+      "id": "backend_models_user",
+      "label": "User",
+      "degree": 3
+    },
+    {
+      "id": "backend_models_analytics",
+      "label": "Analytics",
+      "degree": 3
+    },
+    {
+      "id": "routes_github_connect_repository",
+      "label": "connect_repository()",
+      "degree": 3
+    },
+    {
+      "id": "src_api_setauthtoken",
+      "label": "setAuthToken()",
+      "degree": 2
+    },
+    {
+      "id": "pages_repospage_repospage",
+      "label": "ReposPage()",
+      "degree": 2
+    },
+    {
+      "id": "pages_loginpage_loginpage",
+      "label": "LoginPage()",
+      "degree": 2
+    }
+  ],
+  "surprises": [
+    {
+      "source": "analyze_pipeline()",
+      "target": "AIService",
+      "source_files": [
+        "backend/routes/pipeline.py",
+        "backend/services/ai_service.py"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source; peripheral node `analyze_pipeline()` unexpectedly reaches hub `AIService`"
+    },
+    {
+      "source": "create_app()",
+      "target": "configure_scheduler()",
+      "source_files": [
+        "backend/app.py",
+        "backend/tasks.py"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source"
+    },
+    {
+      "source": "register()",
+      "target": "User",
+      "source_files": [
+        "backend/routes/auth.py",
+        "backend/models.py"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source"
+    },
+    {
+      "source": "github_callback()",
+      "target": "User",
+      "source_files": [
+        "backend/routes/auth.py",
+        "backend/models.py"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source"
+    },
+    {
+      "source": "connect_repository()",
+      "target": "Repository",
+      "source_files": [
+        "backend/routes/github.py",
+        "backend/models.py"
+      ],
+      "confidence": "INFERRED",
+      "relation": "calls",
+      "why": "inferred connection - not explicitly stated in source"
+    }
+  ],
+  "tokens": {
+    "input": 0,
+    "output": 0
+  }
+}
