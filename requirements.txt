@@ -1,0 +1,24 @@
+# Root-level requirements for the Natural-CI-CD-Pipeline-AI_autofix project
+# This is a monorepo with backend (Python/Flask) and frontend (React/Node) services
+
+# Backend dependencies (see backend/requirements.txt for detailed versions)
+Flask==2.3.3
+Flask-Cors==4.0.1
+Flask-JWT-Extended==4.6.0
+Flask-Migrate==4.0.4
+Flask-SQLAlchemy==3.1.1
+python-dotenv==1.0.0
+psycopg2-binary==2.9.10
+redis==5.0.1
+boto3==1.43.11
+requests==2.32.0
+PyYAML>=6.0.2
+openai>=1.14.0
+APScheduler==3.10.1
+python-slugify==8.0.1
+websocket-client==1.6.0
+pytest>=8.3.0
+Werkzeug>=2.3.0
+google-auth>=2.28.0
+google-auth-oauthlib>=1.2.0
+numpy>=1.24.0
